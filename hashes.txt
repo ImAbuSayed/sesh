@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sesh
+
+This log tracks the cryptographic history and versioning for the song **Sesh** (sesh).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T03:39:13.827774 | `v1` | `a5445294f802fe55d08c63a8ca9338c3ecabb47a89db918a7883b7a3e7df0b2f` | `f4843cd56c8ff168f5a253230eeea72ea99c5876c8d8dbd3d27f316816663321` | `2026-05-11_sesh-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

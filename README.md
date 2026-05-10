@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sesh/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Sesh](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sesh/) |
+| **Get License** | [Music Rights & Licensing for Sesh](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sesh/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a5445294f802fe55d08c63a8ca9338c3ecabb47a89db918a7883b7a3e7df0b2f` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
