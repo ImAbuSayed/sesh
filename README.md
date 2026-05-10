@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sesh/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Sesh](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sesh/) |
+| **Get License** | [Get a Licensing Quote for Sesh](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sesh/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অন্ধকারে খুঁজি আমি তোমার চেনা মুখ.. চেনা মুখ..
+> বুকের ভেতর লুকিয়ে রাখা হাজারো সুখ
+> মনের কোণে বাজতে থাকে তোমারই সুর
+> তোমার ছোঁয়ায় মুছে যায় ব্যথা বহুদূর
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
